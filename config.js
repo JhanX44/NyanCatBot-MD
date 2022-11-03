@@ -8,7 +8,7 @@ global.owner = [
   ['50241370839', 'ℭ', true],
   ['50241370839', 'ℭ', true],
   ['50241370839', 'ℭ', true],
-  ['50241370839', 'ℭ', true]
+  ['573244488043', 'Criwilop-Bot', true]
 ]
 global.mods = [] 
 global.prems = [] 
@@ -83,10 +83,10 @@ global.author = `
 
 
 //᭥🍁᭢━━━━◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞━━━━᭥🍁᭢
-global.ignyc = '\n🐱⸽⃕𝕹ʏᴀɴ𝕮ᴀᴛ𝕭ᴏᴛ🍁⃨፝⃕✰\n⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘\n' 
-global.wm = '\n🐱⸽⃕𝕹ʏᴀɴ𝕮ᴀᴛ𝕭ᴏᴛ🍁⃨፝⃕✰\n⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘\n' 
-global.botname = '🐱⸽⃕𝕹ʏᴀɴ𝕮ᴀᴛ𝕭ᴏᴛ🍁⃨፝⃕✰'
-global.me = '⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘'
+global.ignyc = '\JhanX-Bot-MD\JhanX44 y Kei\n' 
+global.wm = '\JhanX-Bot-MD\JhanX44 y Kei' 
+global.botname = 'JhanX-Bot-MD'
+global.me = 'JhanX44 y Kei' 
 //╰─────────────────────╯
 
 
@@ -118,9 +118,9 @@ global.verificado = fs.readFileSync('./storage/image/verificado.png')
 
 
 //᭥🌿᭢━━━━━━━◜𝑳𝑰𝑵𝑲𝑺◞━━━━━━━᭥🌿᭢
-global.linkgc = 'https://chat.whatsapp.com/BuXu7QjhmKHF0QvQCZWIJ6'
-global.nycuser = 'https://chat.whatsapp.com/BuXu7QjhmKHF0QvQCZWIJ6'
-global.script = 'https://chat.whatsapp.com/BuXu7QjhmKHF0QvQCZWIJ6'
+global.linkgc = 'https://chat.whatsapp.com/DjweUbjfKALGCFACnIhqfS'
+global.nycuser = 'https://chat.whatsapp.com/DjweUbjfKALGCFACnIhqfS'
+global.script = 'https://chat.whatsapp.com/DjweUbjfKALGCFACnIhqfS'
 //╰─────────────────────╯
 
 
@@ -175,14 +175,12 @@ global.fakevo = { key: { fromMe: false, participant: '0@s.whatsapp.net', remoteJ
 //╰─────────────────────╯
 
 //᭥🌄᭢━━━━━◜𝑨𝑫 𝑫𝑬 𝑮𝑹𝑼𝑷𝑶◞━━━━━᭥🌄᭢
-global.adgp = { contextInfo: { externalAdReply: { showAdAttribution: true, title: '🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰', body: global.botname, sourceUrl: global.linkgc, thumbnail: miniurl }}}
+global.adgp = { contextInfo: { externalAdReply: { showAdAttribution: true, title: 'JhanX-Bot-MD', body: global.botname, sourceUrl: global.linkgc, thumbnail: miniurl }}}
 //╰─────────────────────╯
 
 //᭥🌄᭢━━━━◜𝑨𝑫 𝑫𝑬 𝑰𝑵𝑺𝑻𝑨𝑮𝑹𝑨𝑴◞━━━━᭥🌄᭢
-global.adig = { contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: "https://Instagram.com/rlxfly.uw", mediaType: "VIDEO", description: "https://Instagram.com/rlxfly.uw",  title: 'Test', body: `hola`, thumbnail: miniurl, sourceUrl: 'http://s.id/0x404' }}}
+global.adig = { contextInfo: { externalAdReply: { showAdAttribution: true, mediaUrl: "https://instagram.com/jonathhanxit?igshid=MDE2OWE1N2Q=", mediaType: "VIDEO", description: "https://Instagram.com/rlxfly.uw",  title: 'Test', body: `hola`, thumbnail: miniurl, sourceUrl: 'http://s.id/0x404' }}}
 
-//᭥🌄᭢━━━━◜𝑨𝑫 𝑫𝑬 𝒀𝑶𝑼𝑻𝑼𝑩𝑬◞━━━━᭥🌄᭢
-global.adyt = { contextInfo: { externalAdReply: { showAdAttribution: true, title: botname, mediaType: 2, previewType: "VIDEO", thumbnail: imgmenu, mediaUrl: 'https://youtu.be/FKVuVneuwtg', sourceUrl: linkgc }}} 
 
 //᭥🌾᭢━━━━━━◜𝑲𝑬𝒀𝑺 𝑨𝑷𝑰𝑺◞━━━━━━᭥🌾᭢
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
